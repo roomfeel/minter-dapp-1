@@ -9,7 +9,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "MIDDLE FINGER CLUB";
 const description = "Your favourite pixel art Middle Fingers NFTs";
-const baseUri = "ipfs://bafkreih4ao4lmk45y3a3igjkntfizzm7shim2wisbcmrm6e4lt5n56hkh4"; // This will be replaced automatically
+const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
