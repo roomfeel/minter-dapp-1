@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Middle Finger Club";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Middle Finger Club is a collection of 5,000 pixel art NFTs created by Gri Mov. Motivation is art and fun. As a holder you have a membership for exclusive giveaways from the artist. Each middle finger is against society conformity, thats why part of profit will be given to specific animal shelters.';
+const welcome_p = 'Middle Finger Club is a collection of 5,000 pixel art NFTs created by Gri Mov. Motivation is art and fun. As a holder you have a membership for exclusive giveaways from the artist, which includes free music releases, art and more. Each middle finger is against society conformity, thats why when sold out, 20% of profit will be given to specific animal shelters with background history. Follow our Twitter for whitelist spots, updates and more details.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon...";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
