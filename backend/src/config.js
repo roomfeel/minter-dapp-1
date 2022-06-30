@@ -59,8 +59,8 @@ const METADATA_UPDATABLE = true; // set to false if you don't want to allow meta
 const OWNER_ADDRESS = '0xEE0BCbA846377f848c0Fe5d591f3D57f0d73a0d9';
 const TREASURY_ADDRESS = '0xEE0BCbA846377f848c0Fe5d591f3D57f0d73a0d9';
 const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
-const MINT_PRICE = 33; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
-const TOKENS_PER_MINT = 20; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
+const MINT_PRICE = 0; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
+const TOKENS_PER_MINT = 3; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
 const PUBLIC_MINT_START_DATE = "2022-07-01T11:30:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
@@ -71,7 +71,7 @@ const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the ro
 const ROYALTY_ADDRESS = "0xEE0BCbA846377f848c0Fe5d591f3D57f0d73a0d9"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
-const PRESALE_WHITELISTED_ADDRESSES = ["0xEE0BCbA846377f848c0Fe5d591f3D57f0d73a0d9","0xB77E5574B42a09cb121dA2499f8E1e61896542b0","0x8530fdb6165Dc14543320495344D2DEc89c23D70"]; // only update if you want to manually set the whitelisted addresses
+const PRESALE_WHITELISTED_ADDRESSES = ["0xEE0BCbA846377f848c0Fe5d591f3D57f0d73a0d9"]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
 let CONTRACT_ADDRESS = "0xD5b38A6c785EAE0dF3bbDEe9Cb825293F897B798"; // If you want to manually include it
